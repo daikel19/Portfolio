@@ -17,4 +17,15 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje continuo
 - **Gestión de proyectos:** Organización y trabajo en equipo
 - **Otros:** Desarrollo de aplicaciones web y resolución de problemas
 
+## 📌 Proyectos Destacados
+### 🔹 [Four Card Feature Section](https://github.com/daikel19/four-card-feature-section-master)
+- Sección de tarjetas con diseño moderno y responsivo.
+
+### 🔹 [Portfolio Personal](https://github.com/daikel19/Portfolio_Daikel)
+- Página web personal con información sobre mí y mis proyectos.
+
+### 🔹 [Batman.css](https://github.com/daikel19/Batman.css)
+- Hoja de estilos inspirada en Batman con un diseño oscuro y atractivo.
+
+
 ¡Gracias por visitar mi perfil! 😊
